@@ -18,5 +18,14 @@
     position: relative;
     left: 50px;
     top: 30px;
+}
 
+#base_casa {
+    width: 300px;
+    height: 200px;
+    background: #401F08;
+    position: relative;
+    top: 18em;
+    
+    left: 50em;
 }
