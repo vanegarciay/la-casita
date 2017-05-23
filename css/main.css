@@ -102,3 +102,35 @@
          -o-transform-origin: 100% 100%;
             transform-origin :100% 100%;
 }
+
+
+#chimenea {
+    width: 40px;
+    height: 80px;
+    background: #FF5C5C;
+    position: relative;
+    left: 16em;
+    top: 3.5em;
+}
+
+#humo1, #humo2, #humo3 {
+    width: 25px;
+    height: 25px;
+    background: #A8A8A8;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    position: relative;
+    left: 290px;
+    bottom: 70px;
+}
+
+#humo2 {
+    left: 320px;
+    bottom: 110px;
+}
+
+#humo3 {
+    left: 350px;
+    bottom: 170px;
+}
